@@ -1,0 +1,11 @@
+.bg {
+  background-image: linear-gradient(
+      to bottom,
+      rgba(59, 67, 50, 0.4),
+      rgba(52, 73, 3, 0.079)
+    ),
+    url("../../assets/bg/bgimg.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

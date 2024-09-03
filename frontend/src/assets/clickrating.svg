@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="57" height="57" viewBox="0 0 57 57">
+  <g id="Group_176" data-name="Group 176" transform="translate(-303 -198)">
+    <rect id="Rectangle_107" data-name="Rectangle 107" width="57" height="57" rx="8" transform="translate(303 198)" fill="#f7dec1" opacity="0.562"/>
+    <g id="vuesax_bold_star" data-name="vuesax/bold/star" transform="translate(317.82 212.82)">
+      <g id="star" transform="translate(0 0)">
+        <path id="Vector" d="M4.31,15.96a2.13,2.13,0,0,0-.5-1.756l-2.77-2.77A2.638,2.638,0,0,1,.08,8.846,2.639,2.639,0,0,1,2.36,7.3L5.917,6.7A2.188,2.188,0,0,0,7.3,5.689L9.257,1.756C9.827.627,10.6,0,11.446,0s1.619.627,2.189,1.756L15.6,5.689a2.056,2.056,0,0,0,.787.775L4.1,18.742a.232.232,0,0,1-.388-.217Z" transform="translate(2.234 2.28)" fill="#ffad4e"/>
+        <path id="Vector-2" data-name="Vector" d="M15.561,7.135a2.067,2.067,0,0,0-.5,1.756l.787,3.431c.331,1.425.125,2.5-.581,3.01a1.709,1.709,0,0,1-1.026.308,4.1,4.1,0,0,1-2.018-.661l-3.34-1.984a2.1,2.1,0,0,0-1.915,0l-3.34,1.984c-1.265.741-2.348.866-3.044.353a1.678,1.678,0,0,1-.581-.8L13.862.671A2.262,2.262,0,0,1,15.846.033L17,.227a2.639,2.639,0,0,1,2.28,1.55,2.638,2.638,0,0,1-.958,2.588Z" transform="translate(5.757 9.349)" fill="#ffad4e"/>
+        <path id="Vector-3" data-name="Vector" d="M0,0H27.36V27.36H0Z" transform="translate(27.36 27.36) rotate(180)" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

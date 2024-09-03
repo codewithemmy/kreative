@@ -1,0 +1,11 @@
+.active {
+    color: black !important;
+    background: white;
+    border-top-left-radius: 3rem;
+    border-bottom-left-radius: 3rem;
+}
+
+.activee {
+    color: #1CE124;
+    border-bottom: 1px solid #1CE124;
+}

@@ -1,0 +1,29 @@
+/* Tailwind CSS custom styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.scale-container {
+  transform: scale(1);
+  transform-origin: top left;
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .scale-container {
+    transform: scale(0.75); /* Adjust the scale as needed */
+  }
+}
+
+@media (max-width: 640px) {
+  .scale-container {
+    transform: scale(0.6); /* Adjust the scale as needed */
+  }
+}
+
+@media print {
+  .print\\:hidden {
+    display: none;
+  }
+}
+

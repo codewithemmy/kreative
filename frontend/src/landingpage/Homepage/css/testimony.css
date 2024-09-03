@@ -1,0 +1,27 @@
+.testimony {
+    background-image: linear-gradient(
+        to bottom,
+        rgba(59, 67, 50, 0.076),
+        rgba(52, 73, 3, 0.079)
+      ),
+      url("../../../assets/TestimonyBg.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  @keyframes fadeInOut {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  .fade-in-out {
+    animation-name: fadeInOut;
+    animation-duration: 2.5s;
+    animation-iteration-count: 1; 
+    animation-fill-mode: forwards;
+  }

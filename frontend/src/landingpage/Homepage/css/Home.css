@@ -1,0 +1,11 @@
+.hero {
+    background-image: linear-gradient(
+        to bottom,
+        rgba(11, 4, 4, 0.4),
+        rgba(53, 38, 5, 0.5)
+      ),url("../../../assets/creativeImages/herobg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
